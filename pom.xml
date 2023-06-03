@@ -93,13 +93,13 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<name>Nexus Release Repository</name>
-			<url>${nexus.host.url}/repository/maven-hosted-release/</url>
+			<name>maven emp app repo</name>
+			<url>http://13.233.253.30:8081/ganesh/repository/mvn-emp-repo/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<name>Nexus Snapshot Repository</name>
-			<url>${nexus.host.url}/repository/maven-hosted-snapshot/</url>
+			<name>maven emp app snapshot repo</name>
+			<url>http://13.233.253.30:8081/ganesh/repository/mvn-emp-repo-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>  
 
