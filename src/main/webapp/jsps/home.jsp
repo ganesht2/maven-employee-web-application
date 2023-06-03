@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Ganesh Ruchitha DevOps Class</h1>
+<h1 align="center">Ganesh Ruchitha DevOps Class</h1>
 <h1 align="center"> Google is a Outsourcing, Consulting, Service, and Product Development Company</h1>
 <hr>
 <div style="text-align: center;">
@@ -17,7 +17,7 @@
 		<img src="images/" alt="" width="100">
 	</span -->
 	<span style="font-weight: bold;">
-		DevOps Made Easy,
+		DevOps Made Very Easy,
 		Bangalore,
 		devopsmadeeasy@outlook.com
 		<br>
